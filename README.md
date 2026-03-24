@@ -1,5 +1,7 @@
 # Integración SEW MOVI-C (MOVIDRIVE/MOVITRAC) con PLC Siemens ET 200SP vía PROFINET
 
+## Youtube: _https://youtu.be/KB0z7OeBHrY_
+
 ## Descripción
 
 Este repositorio y sesión técnica documentan la arquitectura de control y la puesta en marcha de una máquina paletizadora automática (referencia Quimarox). Se analiza la integración práctica del moderno ecosistema de accionamientos **MOVI-C de SEW-EURODRIVE** en comunicación directa con un controlador maestro **PLC Siemens ET 200SP** utilizando la red PROFINET.
@@ -59,6 +61,9 @@ Puedes usar esta guía de tiempos para navegar por los temas clave de la present
 
 ## Recursos Adicionales
 
-- [Modelos 3D y Planos de la máquina paletizadora Kimarox] _(Añadir enlace URL)_
-- [Archivos GSDML de SEW-EURODRIVE] _(Añadir enlace URL)_
-- [Proyecto Base TIA Portal (v18)] _(Ubicado en la carpeta de este repositorio)_
+- [Modelos 3D y Planos de la máquina paletizadora Kimarox]  
+  _https://www.qimarox.es/producto/paletizador-logistico-highrunner-hr9/_
+- [Archivos GSDML de SEW-EURODRIVE]  
+  _https://www.sew-eurodrive.es/os/dud/?tab=software&country=ES&language=en_us&search=movikit%20profinet_
+- [Proyecto Base TIA Portal (v18) y MOVISUIT]  
+  _(Ubicado en la carpeta de este repositorio)_
